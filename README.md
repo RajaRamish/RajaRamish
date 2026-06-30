@@ -52,7 +52,7 @@
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajaramish&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajaramish&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=rajaramish&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -68,7 +68,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajaramish&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajaramish&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
