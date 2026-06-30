@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Developer;AI+%7C+Cybersecurity+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="380" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635013128031/-KM_R7JV6.gif"/>
 
 ### 👨‍💻 About Me
 
@@ -39,37 +39,14 @@
 ### 💻 Languages & Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,python,php,mongodb,mysql,docker,git,linux,figma,bootstrap,tensorflow,sklearn"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,python,php,mongodb,mysql,docker,git,linux,figma,bootstrap,tensorflow"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajaramish&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img width="48%" src="https://streak-stats.demolab.com?user=rajaramish&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaramish&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajaramish&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
 </p>
 
 ---
@@ -77,9 +54,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaramish&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaramish&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -87,7 +62,5 @@
 ### 🐍 Contributions
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
